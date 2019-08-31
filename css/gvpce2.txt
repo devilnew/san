@@ -1,1 +1,3 @@
 this is the second file
+
+the class starts exactly on time
